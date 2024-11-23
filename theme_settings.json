@@ -1,0 +1,86 @@
+{
+    "workbench.colorCustomizations": {
+        // Status bar
+        "statusBar.foreground": "#0c1b29",
+        "statusBar.noFolderBackground": "#2A5677",
+        "statusBar.debuggingBackground": "#511f1f",
+        "statusBarItem.remoteBackground": "#00D396",
+        "statusBarItem.remoteForeground": "#0c1b29",
+        // Activity Bar (right bar)
+        "activityBar.background": "#0c1b29",
+        "activityBarBadge.background": "#00D396",
+        "activityBarBadge.foreground": "#0c1b29",
+        // Side bar (left panel)
+        "sideBar.background": "#0c1b29",
+        "sideBar.foreground": "#EDEDF0",
+        "sideBarSectionHeader.background": "#2A5677",
+        // Editor
+        "editor.background": "#0c1b29",
+        "editor.foreground": "#EDEDF0",
+        "editor.lineHighlightBackground": "#005bd330",
+        "editorCursor.foreground": "#A1F7DB",
+        // Tab colors
+        "tab.activeBackground": "#0c1b29",
+        "tab.activeBorderTop": "#00D396",
+        "tab.activeForeground": "#A1F7DB",
+        "tab.unfocusedActiveBorder": "#ffffff",
+        "tab.inactiveForeground": "#ffffff",
+        // Editor group header
+        "editorGroupHeader.tabsBackground": "#0c1b29",
+        "editorGroupHeader.tabsBorder": "#00D396",
+        "editorGroupHeader.noTabsBackground": "#2A5677",
+        // Scrollbar
+        "scrollbarSlider.background": "#A1F7DB90",
+        // Terminal
+        "terminal.background": "#0c1b29",
+        "terminal.tab.activeBorder": "#00D396",
+        "terminal.tab.background": "#2A5677",
+        "terminal.tab.inactiveForeground": "#A1F7DB",
+        // Panel
+        "panelTitle.activeBorder": "#00D396",
+        // Notifications
+        "notification.background": "#2A5677",
+        "notification.foreground": "#EDEDF0",
+        "notification.infoBackground": "#00D396",
+        "notification.warningBackground": "#A1F7DB",
+        "notification.errorBackground": "#511f1f",
+        "window.activeBorder": "#0c1b29",
+        "window.inactiveBorder": "#00D396",
+        "titleBar.activeBackground": "#0c1b29",
+        "titleBar.inactiveBackground": "#2A5677",
+        "titleBar.inactiveForeground": "#A1F7DB",
+        // Button styles
+        "button.background": "#00D396",
+        "button.foreground": "#0c1b29",
+        "button.hoverBackground": "#00B386",
+        "input.background": "#0c1b29",
+        "input.foreground": "#ffffff",
+        "input.placeholderForeground": "#A1F7DB80",
+        "inputValidation.errorBackground": "#511f1f",
+        "inputValidation.errorForeground": "#EDEDF0",
+        "inputValidation.errorBorder": "#FF5555",
+        // Quick Open / Command Palette input box
+        "quickInput.foreground": "#ffffff",
+        "quickInputTitle.background": "#0F2436",
+        "pickerGroup.foreground": "#ffffff",
+        "pickerGroup.border": "#00D396",
+        // Icons and decorations for quick
+        "keybindingLabel.foreground": "#1E3A57",
+        "keybindingLabel.background": "#00D396",
+        "keybindingLabel.border": "#00D396",
+        "keybindingLabel.bottomBorder": "#00D396",
+        // Quick Open/Command Palette selected item
+        "list.activeSelectionBackground": "#2a567775",
+        "list.activeSelectionIconForeground": "#A1F7DB",
+        "list.hoverBackground": "#1E3A57",
+        "list.inactiveSelectionBackground": "#2A5677",
+        "list.inactiveSelectionForeground": "#A1F7DB",
+        // Editor widget (Quick Open, Search, Replace)
+        "editorWidget.background": "#0c1b29",
+        "editorWidget.border": "#00D396",
+        "editor.findMatchBackground": "#00D39630",
+        "editor.findMatchHighlightBackground": "#2A567780",
+        "editor.findRangeHighlightBackground": "#2A567780",
+        "editor.findMatchBorder": "#00D396",
+        "editor.findMatchHighlightBorder": "#00D396"
+    }
