@@ -20,12 +20,14 @@
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
 		"@types/node": "^22.9.3",
 		"autoprefixer": "^10.4.20",
+		"bits-ui": "^1.0.0-next.64",
 		"clsx": "^2.1.1",
 		"drizzle-kit": "^0.22.8",
 		"eslint": "^9.7.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.36.0",
 		"globals": "^15.0.0",
+		"lucide-svelte": "^0.460.1",
 		"prettier": "^3.3.2",
 		"prettier-plugin-svelte": "^3.2.6",
 		"prettier-plugin-tailwindcss": "^0.6.5",
@@ -41,6 +43,7 @@
 	"dependencies": {
 		"@tailwindcss/forms": "^0.5.9",
 		"@tailwindcss/typography": "^0.5.15",
+		"@tanstack/table-core": "^8.20.5",
 		"dotenv": "^16.4.5",
 		"drizzle-orm": "^0.33.0",
 		"postgres": "^3.4.5"
